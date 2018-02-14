@@ -1,0 +1,25 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrderrickguy/Hangman.git"
+  },
+  "author": "Derrick Guy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrderrickguy/Hangman/issues"
+  },
+  "homepage": "https://github.com/mrderrickguy/Hangman#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "package-json": "^4.0.1",
+    "prompt": "^1.0.0",
+    "request": "^2.83.0"
+  }
+}
